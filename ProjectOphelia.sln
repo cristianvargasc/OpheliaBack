@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectOphelia", "ProjectOphelia\ProjectOphelia.csproj", "{5798E89D-4ABF-4B07-9E49-8DD93D66EBF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database", "Database\Database.csproj", "{B9924BDD-D620-4B05-B554-F9700F206BFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{50E59C34-84EB-4C90-B208-4CADA15CACF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5798E89D-4ABF-4B07-9E49-8DD93D66EBF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5798E89D-4ABF-4B07-9E49-8DD93D66EBF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5798E89D-4ABF-4B07-9E49-8DD93D66EBF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5798E89D-4ABF-4B07-9E49-8DD93D66EBF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9924BDD-D620-4B05-B554-F9700F206BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9924BDD-D620-4B05-B554-F9700F206BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9924BDD-D620-4B05-B554-F9700F206BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9924BDD-D620-4B05-B554-F9700F206BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50E59C34-84EB-4C90-B208-4CADA15CACF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50E59C34-84EB-4C90-B208-4CADA15CACF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50E59C34-84EB-4C90-B208-4CADA15CACF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50E59C34-84EB-4C90-B208-4CADA15CACF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5877651F-682D-412B-A7BC-D975DFB1021E}
+	EndGlobalSection
+EndGlobal
